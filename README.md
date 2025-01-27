@@ -1,5 +1,7 @@
 # WhipIt Car Rental App
 
+https://github.com/user-attachments/assets/797cd415-1df1-4531-984e-72e16d17a383
+
 ## Description of Project
 
 For my project, I have developed WhipIt, a car-sharing application, to allow users to browse available cars, rent them, and list their own vehicles for others to rent. The app has been implemented using Swift and Xcode, and it integrates the MapKit, Core Location, and Photos APIs from Apple.
@@ -20,7 +22,7 @@ Moreover, this app integrates Apple APIs to provide a dynamic and interactive us
 
 - MapKit: Displays car locations on a map, allowing users to visually browse options.
 
-- Core Location: Dynamically tracks and updates the user’s location.
+- Core Location: Captures the user’s location when listing their car for rent.
 
 - Photos API: Allows users to upload photos of their cars directly from their device.
 
